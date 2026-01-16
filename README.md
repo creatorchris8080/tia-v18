@@ -4,6 +4,25 @@ This guide provides the required **prerequisites, system configurations, install
 
 ---
 
+## Recommended Version
+
+### TIA Portal V18 (Strongly Recommended)
+
+**TIA Portal V18** is the **recommended version** due to its balance of **performance, stability, and modern features**.
+
+**Why choose V18?**
+- **Less lag and faster loading** compared to newer versions
+- **Lower system resource usage** (CPU & RAM friendly)
+- Improved **PLC, HMI, and WinCC integration**
+- **More stable simulation** with PLCSIM / PLCSIM Advanced
+- Better compatibility with **Windows 10 & Windows 11**
+- Supports most **Siemens S7-1200, S7-1500, and HMI panels**
+- Fewer crashes and installation issues than newer releases
+
+> V18 is ideal for **students, automation engineers, and system integrators** who want reliability without heavy hardware requirements.
+
+---
+
 ## Prerequisites
 
 Before installing TIA Portal, download and install the following:
@@ -53,7 +72,7 @@ Use **Windows Search** or **Settings** to locate the following:
 
 ---
 
-## Installation Files
+## Installation Steps
 
 - TIA Portal Installation Video Guide (Google Drive):  
   https://drive.google.com/file/d/1vsY7MDwcIw4QTer8_qkcoe9N0aMV8jny/view?usp=sharing
