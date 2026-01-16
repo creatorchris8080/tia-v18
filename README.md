@@ -58,7 +58,9 @@ Use **Windows Search** or **Settings** to locate the following:
 - TIA Portal Installation Video Guide (Google Drive):  
   https://drive.google.com/file/d/1vsY7MDwcIw4QTer8_qkcoe9N0aMV8jny/view?usp=sharing
 
-**Download Password: plc4me.com**  
+“Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager”
+
+**Password: plc4me.com**  
 
 
 **Reference Website:**  
